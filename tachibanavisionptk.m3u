@@ -1474,8 +1474,13 @@ http://51.79.229.239/live.ts?channelId=129309&uid=14505&deviceMac=00:1A:79:A7:53
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seatoday_small1.png?v=2.0.0.13" group-title="Indihome",SEA TODAY
 https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="Indihome", STUDIO UNIVERSAL
-https://cdngb196jtedge.indihometv.com/joss/130/studiouniversal/index.m3u8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/24Vxp1f.png" group-title="Indihome", KOMPAS TV (HD)
 https://cdngb196jtedge.indihometv.com/joss/133/kompastv/index.m3u8
@@ -4945,7 +4950,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TVAsahi-540
-http://uk.vthanh.utako.moe/TV_Asahi/index.m3u8
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TVTokyo-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYOMX1-540

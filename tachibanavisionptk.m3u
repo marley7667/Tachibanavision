@@ -4642,7 +4642,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-logo="" group-title="Test",Channel test
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001078/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.110:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 tvg-logo="https://iili.io/H3UP6Ff.png" group-title="SPORTS", BILLIARD TV 
 https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8

@@ -204,7 +204,6 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 
-
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",ASIAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari
 https://mtlivestream.com/asian/ytlive/index.m3u8
@@ -4639,6 +4638,11 @@ http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="" group-title="Test",Channel test
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001189/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 tvg-logo="https://iili.io/H3UP6Ff.png" group-title="SPORTS", BILLIARD TV 
 https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
@@ -5728,7 +5732,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 #EXTINF:-1 group-title="Cignal" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-05-39-936.jpg",iBC
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600

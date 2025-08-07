@@ -1,2 +1,2 @@
 # Tachibanavision
-Sesat
+saksikan iptv seluruh luar negeri 

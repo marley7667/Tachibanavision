@@ -12,7 +12,7 @@ https://bit.ly/carubankalbar
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="NATIONAL TV",SMILE TV 
-http://hfa09a2swye.sn.mynetname.net:801/hls/smile/playlist.m3u8
+http://hfa09a2swye.sn.mynetname.net:801/hls/streaming/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="RELIGI", PALIKO TELEVISI
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3

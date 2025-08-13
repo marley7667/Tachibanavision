@@ -323,11 +323,9 @@ https://flv.intechmedia.net/live/ch58.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch51.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Efarina TV
-https://live.efarinatv.net/hls/0/stream.m3u8
+https://live.efarinatv.net/hls/stream123/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/46/Logo_CTV_-_MOS_Network_2023.png" group-title="NATIONAL TV",CTV MOS 
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch82.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", FAJAR TV
 https://63b2dc7196c38.streamlock.net/FAJARTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_Sultra_TV.png" group-title="Local Channels", SULTRA TV
@@ -339,7 +337,9 @@ https://flv.intechmedia.net/live/ch119.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", PUJA TV
 https://v6.siar.us/pujatv/live/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Local Channels",HAYAT TV HD 
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch60.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="Local Channels",  BANJAR TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="Local Channels",  SAKTI

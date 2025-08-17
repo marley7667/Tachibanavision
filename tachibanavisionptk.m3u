@@ -5393,7 +5393,7 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/duni
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV One
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Kompas Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 

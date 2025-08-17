@@ -5391,8 +5391,9 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/flik
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV One
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",tvOne HD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Kompas Tv

@@ -1626,7 +1626,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraenglish.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EuroNews English
 https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EuroNews (F*)
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EuroNews 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 
 

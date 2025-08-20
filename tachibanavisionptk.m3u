@@ -1731,8 +1731,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dwenglish.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dwdeutsch.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.id" tvg-name="NHK World Japan" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News", NHK World Japan HD 
-https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+https://why.biz.id/Iptv/oxygen.php?id=nhkworld
 
 #EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHK World Premium" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8

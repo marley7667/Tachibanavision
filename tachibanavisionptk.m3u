@@ -2623,9 +2623,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoonito (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
+
 #EXTINF:-1 group-title="KIDS" tvg-id="kartoonchannel",Kartoon CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://why.biz.id/Iptv/oxygen.php?id=ktv
+https://why.biz.id/Iptv/oxygen.php?id=kartoon
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png",CBeebies Asia

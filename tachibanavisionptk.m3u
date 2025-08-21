@@ -1624,7 +1624,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraenglish.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EuroNews 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+https://why.biz.id/Iptv/oxygen.php?id=euronewsasia
 
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png",Fox News 
@@ -2829,6 +2830,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/g2gBC2rC/20230519-230619.jpg" group-title="MOVIES",Cinemax (T*) 
 https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="" group-title="MOVIES", B4U MOVIES 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+https://why.biz.id/Iptv/oxygen.php?id=b4umovieindia
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -4487,7 +4491,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mp
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
 
-
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="" group-title="Music", B4U MUSIC 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+https://why.biz.id/Iptv/oxygen.php?id=b4umusicindia
 
 ####################################### RANDOM TV ################################
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/doraemon/images/6/6b/Doraemon_1979.jpg/revision/latest/scale-to-width-down/250?cb=20190730230643&path-prefix=id", 

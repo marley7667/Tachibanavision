@@ -325,7 +325,7 @@ https://flv.intechmedia.net/live/ch58.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch51.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Efarina TV
-https://live.efarinatv.net/hls/stream123/index.m3u8
+https://live.efarinatv.net/hls/stream123/index.m3u8?checkedby:kenarnoly
 
 
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", FAJAR TV
@@ -5235,7 +5235,7 @@ https://63b2dc7196c38.streamlock.net/SMTV/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="Local Channels",RCTV Cirebon
-https://63b2dc7196c38.streamlock.net:1937/ch9/myStream/chunklist_w1718673554.m3u8?checkedby:iptvcat.com
+https://v10.siar.us/rctv/live/playlist.m3u8?checkedby:tachibanavision
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Padang_TV_2007.png" group-title="Local Channels",Padang TV

@@ -5375,14 +5375,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
 https://why.biz.id/Iptv/oxygen.php?id=qurantv
 
 ########DENS TV#########
-#EXTINF:-1 group- logo="https://upload.wikimedia.org/wikipedia/id/1/11/Suneo_versi_2005.png", 
+#EXTINF:-1 group-title="DENS TV" group-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Suneo_versi_2005.png", 
+
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+https://why.biz.id/Iptv/oxygen.php?id=indosiar
+
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+https://why.biz.id/Iptv/oxygen.php?id=sctv
+
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 

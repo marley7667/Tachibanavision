@@ -5366,9 +5366,9 @@ https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="infomartion", REFORMED 21 HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd?checkedby:tachibanavision
 
 #EXTINF:-1 group-title="infomartion",AL QURAN AL KAREEM  HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2

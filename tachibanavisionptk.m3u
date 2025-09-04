@@ -5279,7 +5279,7 @@ https://etv-cdn.kdb.co.id/BNTV/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Local Channels",KILISUCI TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg=name"DHAMMA" tvg-logo="" group-title="Local Channels", DHAMMA
+#EXTINF:-1 tvg=name"DHAMMA" tvg-logo="" group-title="Local Channels", DHAMMA TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #############SONYLIV##########
@@ -6720,7 +6720,7 @@ https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="MonsterRX931" tvg-name="Monster RX 93.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rx931fm.png" group-title="FM",Monster RX 93.1
-https://ph-icecast-win.eradioportal.com:8443/monsterrx
+https://sg-icecast.eradioportal.com:8443/monsterrrx
 
 #EXTINF:-1 radio="true" tvg-id="IFM" tvg-name="93.9 iFM" tvg-logo="https://iili.io/26Jvxv1.png" group-title="FM",93.9 iFM
 https://magic.radioca.st/stream

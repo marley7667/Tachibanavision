@@ -3718,24 +3718,23 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099270
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://8upload.com/image/67dcf94fab602/StartSpselect1hd-e1740229230649.png" group-title="Sports",Star Sports Select 1 HD
-https://raw.githubusercontent.com/marley7667/Tachibanavision/refs/heads/main/starselect1.m3u8
+https://maldivesn.net/hilaytv/starsportsselect1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://8upload.com/image/67dcfe71e3473/strselect2__2_.png" group-title="Sports",Star Sports Select 2 HD
-https://raw.githubusercontent.com/marley7667/Tachibanavision/refs/heads/main/starselect2.m3u8
+https://maldivesn.net/hilaytv/starsportsselect2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="starsp1.mv" tvg-name="Star Sports 1 HD" tvg-logo="https://8upload.com/image/67dcf94f95d31/starsports1-e1740270475648.png" group-title="Sports",Star Sports 1 
-https://raw.githubusercontent.com/marley7667/Tachibanavision/refs/heads/main/starsports1.m3u8
+https://maldivesn.net/hilaytv/starsports1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="starsp2.mv" tvg-name="Star Sports 2 HD" tvg-logo="https://8upload.com/image/67dcf94fa230e/starsports2-e1740270058598.png" group-title="Sports",Star Sports 2 
-https://raw.githubusercontent.com/marley7667/Tachibanavision/refs/heads/main/starsports2.m3u8
+https://maldivesn.net/hilaytv/starsports2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="starsports3.mv" tvg-name="Star Sports 3 HD" tvg-logo="https://8upload.com/image/67d9be5ed9c6b/starsp3.jpg" group-title="Sports",Star Sports 3 
-https://raw.githubusercontent.com/marley7667/Tachibanavision/refs/heads/main/starsports3.m3u8
-
+https://maldivesn.net/hilaytv/starsports2
 ###############SPORTS INTERNATIONAL##################
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports Internasional" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/permier1.png" ,Premier Sports 1 IE

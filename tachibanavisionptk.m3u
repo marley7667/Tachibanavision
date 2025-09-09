@@ -1523,7 +1523,7 @@ https://streaming.indihometv.com/atm/DASH/animax/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="INDIHOME", SCTV 🟠
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="INDIHOME", SCTV 
 #https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -1531,10 +1531,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="INDIHOME", indosiar 🟠
-#https://streaming.indihometv.com/atm/DASH/Indosiar/manifest.mpd
-#https://cdngb196.indihometv.com/atm/DASH/Indosiar/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/Indosiar/manifest.mpd
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="INDIHOME", indosiar 
+https://l.semar.my.id/fetch?id=idigital.m3u8&auth=idgtlsemar25
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="

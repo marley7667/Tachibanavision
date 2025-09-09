@@ -6765,9 +6765,9 @@ https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3?checkedby:kenarn
 
 #EXTINF:-1 radio="true" tvg-id="97.9 Home Radio" tvg-name="97.9 Home Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HOME-RADIO-LOGO-2017.png" group-title="FM",97.9 Home Radio
 http://149.56.147.197:9071/stream
-#EXTINF:-1 radio="true" tvg-id="1011MOR" tvg-name="101.1 DWRR", MOR 101.9
+#EXTINF:-1 group-title="FM" radio="true" tvg-id="1011MOR" tvg-name="101.1 DWRR", MOR 101.9
 https://stream.zeno.fm/0ha8ftewqp8uv?checkedby:eko
-#EXTINF:-1 radio="true" tvg-id="zoofm" tvg-name="ZOO FM", zoofm 101.6
+#EXTINF:-1 group-title="FM" radio="true" tvg-id="zoofm" tvg-name="ZOO FM", zoofm 101.6
 https://i.klikhost.com:8174/zoofm?checkedby:tachibanavision
 
 #EXTINF:-1 radio="true" tvg-id="987DZFE" tvg-name="98.7 DZFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DZFE.svg/1200px-DZFE.svg.png" group-title="FM",98.7 DZFE

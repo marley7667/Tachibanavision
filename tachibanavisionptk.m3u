@@ -2648,8 +2648,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="kartoonchannel",Kartoon CHANNEL
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://why.biz.id/Iptv/oxygen.php?id=kartoon
+https://livetv-fa.tubi.video/kartoon/kc_co.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2669,7 +2668,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChanne
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://flmngr.firstmedia.com/files/logos/channels/6-KIDS/Horee%20HD-FirstMedia-Chl-375.jpg" group-title="Kids", Horee 
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
@@ -3718,11 +3717,11 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099270
 ########################## STAR SPORT  ########################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://8upload.com/image/67dcf94fab602/StartSpselect1hd-e1740229230649.png" group-title="Sports Asia",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://8upload.com/image/67dcf94fab602/StartSpselect1hd-e1740229230649.png" group-title="Sports",Star Sports Select 1 HD
 https://maldivesn.net/hilaytv/starsportsselect1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://8upload.com/image/67dcfe71e3473/strselect2__2_.png" group-title="Sports Asia",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://8upload.com/image/67dcfe71e3473/strselect2__2_.png" group-title="Sports",Star Sports Select 2 HD
 https://maldivesn.net/hilaytv/starsportsselect2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -3730,11 +3729,11 @@ https://maldivesn.net/hilaytv/starsportsselect2
 https://maldivesn.net/hilaytv/starsports1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starsp2.mv" tvg-name="Star Sports 2 " tvg-logo="https://8upload.com/image/67dcf94fa230e/starsports2-e1740270058598.png" group-title="Sports Asia",Star Sports 2 
+#EXTINF:-1 tvg-id="starsp2.mv" tvg-name="Star Sports 2 " tvg-logo="https://8upload.com/image/67dcf94fa230e/starsports2-e1740270058598.png" group-title="Sports",Star Sports 2 
 https://maldivesn.net/hilaytv/starsports2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starsports3.mv" tvg-name="Star Sports 3 " tvg-logo="https://8upload.com/image/67d9be5ed9c6b/starsp3.jpg" group-title="Sports Asia",Star Sports 3 
+#EXTINF:-1 tvg-id="starsports3.mv" tvg-name="Star Sports 3 " tvg-logo="https://8upload.com/image/67d9be5ed9c6b/starsp3.jpg" group-title="Sports",Star Sports 3 
 https://maldivesn.net/hilaytv/starsports3
 
 ###############SPORTS INTERNATIONAL##################

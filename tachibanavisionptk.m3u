@@ -2,9 +2,9 @@
 "https://bit.ly/IndonesiaEpg"
 ########################## NATIONAL TV #########################
 
-#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="" group-title="INFOMATION",OXYGEN INFO
+#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="" group-title="INFOMARTION",OXYGEN INFO
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://why.biz.id/Iptv/oxygen.php?id=oxygentv
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1 tvg-id="radiotv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stara_TV_Sumedang_fix.png/100px-Stara_TV_Sumedang_fix.png" group-title="Local Channels", Stara TV
 https://bit.ly/starakalbar

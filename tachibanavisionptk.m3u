@@ -11,16 +11,16 @@ https://bit.ly/starakalbar
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" group-title="Local Channels", CARUBAN TV
 https://bit.ly/carubankalbar
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",PBS KIDS
+#EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="KIDS",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="NATIONAL TV",SMILE TV 
 http://hfa09a2swye.sn.mynetname.net:801/hls/streaming/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="RELIGI", PALIKO TELEVISI
+#EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="RELIGI", PALIKO TELEVISI
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch31.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="RELIGI", RINJANI TV
+#EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="RELIGI", RINJANI TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch32.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paper-shin-aka-keroro-gunsou/images/2/24/Tachibana_GIT.png" group-title="KNOWLEDGE", INDONESIANATV
@@ -36,7 +36,7 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="KIDS",VTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=vtv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="Local Channels", BMSTV
+#EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels", BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 //////////HBO GROUP///////
@@ -139,7 +139,9 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 ###########SPORTS SSC#########
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sports ssc & sony"",SONY SPORTS TEN 1 HD
+#EXTINF:-1 group-logo="https://iili.io/FkDlyib.png",
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://iili.io/FkDlyib.png" group-title="Sports ssc & sony"",SONY SPORTS TEN 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sports ssc & sony"",SONY SPORTS TEN 2 HD
@@ -1536,7 +1538,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="INDIHOME", indosiar 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://iili.io/FkDlyib.png" group-title="INDIHOME", indosiar 
 https://l.semar.my.id/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2121,7 +2123,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
 
-#EXTINF:-1  tvg-name="FUMIKA TV" tvg-logo="https://i.pximg.net/img-original/img/2025/06/24/21/05/27/131931319_p0.jpg" group-title="Local Channels", FUMIKA TV
+#EXTINF:-1  tvg-name="FUMIKA TV" tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels",PONTV HD
 https://bit.ly/mondokgila
 
 

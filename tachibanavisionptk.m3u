@@ -302,6 +302,7 @@ https://cdn12jtedge.indihometv.com/joss/134/eatgo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Doraemon_versi_2005.png" group-title="NATIONAL TV", GARUDA TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
 ###############MEDIA GROUP############
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Suneo_versi_2005.png", 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="MEDIA GROUP", MAGNA CHANNEL HD
@@ -316,12 +317,16 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 https://63b2dc7196c38.streamlock.net/RIAUTV/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="Local Channels", PALTV 
-https://ythls.armelin.one/channel/UCwANUmylxl3hp5VeKo--vsQ.m3u8
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch18.m3u8
 #EXTINF:-1 tvg-logo="https://kaltaratv.id/wp-content/uploads/2023/11/logo-Kaltaratv-768x215.png" group-title="Local Channels", KALTARA TV
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", BETV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch58.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="Local Channels", ABTV HD
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="Local Channels", DM TV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3

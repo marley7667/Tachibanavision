@@ -2648,7 +2648,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="kartoonchannel",Kartoon CHANNEL
-https://livetv-fa.tubi.video/kartoon/kc_co.m3u8
+# segera diperbaiki 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

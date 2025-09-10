@@ -325,7 +325,7 @@ https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch58.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="Local Channels", ABTV HD
+#EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels", ABTV HD
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="Local Channels", DM TV HD
@@ -5008,7 +5008,7 @@ https://ca01.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
 https://63b2dc7196c38.streamlock.net/JTVSURABAYA/myStream/chunklist_w936426026.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-id="SALIRATV.id" tvg-logo="https://salira.tv/wp-content/uploads/2021/10/logo-wp-berita-2.png", SALIRA HD
-https://5bf7b725107e5.streamlock.net/saliratv/saliratv/playlist.m3u8
+https://live.salira.tv:3870/stream/play.m3u8
 
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
 https://v6.siar.us/madutv/hd720/playlist.m3u8?checkedby:iptvcat.com

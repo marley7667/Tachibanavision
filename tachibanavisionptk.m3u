@@ -6542,6 +6542,9 @@ http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 #EXTINF:-1 radio="true" tvg-id="MonsterRX931" tvg-name="Monster RX 93.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rx931fm.png" group-title="FM",Monster RX 93.1
 https://sg-icecast.eradioportal.com:8443/monsterrrx
 
+#EXTINF:-1 radio="true" tvg-id="MonsterRX931" tvg-name="Monster RX 93.1" tvg-logo="https://static.wikia.nocookie.net/paper-shin-aka-keroro-gunsou/images/2/25/Etsuko_Doraemon_GIT.png/revision/latest/scale-to-width-down/1000?cb=20240816100703" group-title="FM",W ROCK 96.3 FM
+https://wrockceb-iradioph.radioca.st/;
+
 #EXTINF:-1 radio="true" tvg-id="IFM" tvg-name="93.9 iFM" tvg-logo="https://iili.io/26Jvxv1.png" group-title="FM",93.9 iFM
 https://magic.radioca.st/stream
 

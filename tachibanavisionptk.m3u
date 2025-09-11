@@ -3721,26 +3721,118 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099269
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099270
 
 
-########################## STAR SPORT  ########################
+########################## SPORTS ASIA ########################
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="Sports Asia", BEIN SPORTS 1 AR
+https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="Sports Asia", BEIN SPORTS 2 AR
+https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="Sports Asia", BEIN SPORTS 3 AR
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="Sports Asia", DubaiSports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="Sports Asia", DubaiSports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="Sports Asia", DubaiSports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="Sports Asia", Abu Dhabi Sports 1 Premium
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="Sports Asia", Abu Dhabi Sports 2 Premium
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
+
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox502.png" group-title="Sports Asia",FOX Sports 502 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/123813
+https://zekonew.newkso.ru/zeko/premium820/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox503.png" group-title="Sports Asia",Fox Sports 503 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/123814
+https://zekonew.newkso.ru/zeko/premium821/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox504.png" group-title="Sports Asia",Fox Sports 504 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/123815
+https://zekonew.newkso.ru/zeko/premium822/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox505.png" group-title="Sports Asia",Fox Sports 505 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/123816
+https://windnew.newkso.ru/wind/premium823/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox506.png" group-title="Sports Asia",Fox Sports 506 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/123817
+https://windnew.newkso.ru/wind/premium824/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox506.png" group-title="Sports Asia",Fox Sports 507 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/123818
+https://windnew.newkso.ru/wind/premium825/mono.m3u8|referer=https://webxzplay.cfd/
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://8upload.com/image/67dcf94fab602/StartSpselect1hd-e1740229230649.png" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://8upload.com/image/67dcf94fab602/StartSpselect1hd-e1740229230649.png" group-title="Sports Asia",Star Sports Select 1 HD
 https://maldivesn.net/hilaytv/starsportsselect1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://8upload.com/image/67dcfe71e3473/strselect2__2_.png" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://8upload.com/image/67dcfe71e3473/strselect2__2_.png" group-title="Sports Asia",Star Sports Select 2 HD
 https://maldivesn.net/hilaytv/starsportsselect2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starsp1.mv" tvg-name="Star Sports 1 " tvg-logo="https://8upload.com/image/67dcf94f95d31/starsports1-e1740270475648.png" group-title="Sports Asia",Star Sports 1 
+#EXTINF:-1 tvg-id="starsp1.mv" tvg-name="Star Sports 1 HD" tvg-logo="https://8upload.com/image/67dcf94f95d31/starsports1-e1740270475648.png" group-title="Sports Asia",Star Sports 1 HD
 https://maldivesn.net/hilaytv/starsports1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starsp2.mv" tvg-name="Star Sports 2 " tvg-logo="https://8upload.com/image/67dcf94fa230e/starsports2-e1740270058598.png" group-title="Sports",Star Sports 2 
+#EXTINF:-1 tvg-id="starsp2.mv" tvg-name="Star Sports 2 HD" tvg-logo="https://8upload.com/image/67dcf94fa230e/starsports2-e1740270058598.png" group-title="Sports Asia",Star Sports 2 HD
 https://maldivesn.net/hilaytv/starsports2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starsports3.mv" tvg-name="Star Sports 3 " tvg-logo="https://8upload.com/image/67d9be5ed9c6b/starsp3.jpg" group-title="Sports",Star Sports 3 
+#EXTINF:-1 tvg-id="starsports3.mv" tvg-name="Star Sports 3 HD" tvg-logo="https://8upload.com/image/67d9be5ed9c6b/starsp3.jpg" group-title="Sports Asia",Star Sports 3 HD
 https://maldivesn.net/hilaytv/starsports3
 
 ###############SPORTS INTERNATIONAL##################

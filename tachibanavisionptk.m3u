@@ -5272,8 +5272,6 @@ https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
 #EXTINF:-1 group-title="infomartion", REFORMED 21 HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd?checkedby:tachibanavision
 
-#EXTINF:-1 group-title="infomartion",AL QURAN AL KAREEM  HD
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
 ########DENS TV#########
 #EXTINF:-1 group-title="DENS TV" group-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Suneo_versi_2005.png", 
@@ -5337,9 +5335,9 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Mekkah Tv
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV", AL QURAN AL KAREEM 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Madinah  Tv

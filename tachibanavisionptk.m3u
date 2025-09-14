@@ -5273,8 +5273,7 @@ https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd?checkedby:tachibanavision
 
 #EXTINF:-1 group-title="infomartion",AL QURAN AL KAREEM  HD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=qurantv
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
 ########DENS TV#########
 #EXTINF:-1 group-title="DENS TV" group-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Suneo_versi_2005.png", 

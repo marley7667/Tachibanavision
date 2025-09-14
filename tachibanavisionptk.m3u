@@ -1567,10 +1567,8 @@ https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Indihome",transtv HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+http://103.179.182.117:6768/hls/43/43.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5297,9 +5295,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=li
 
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV HD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+http://103.179.182.117:6768/hls/45/45.m3u8
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -5517,9 +5513,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+http://103.179.182.117:6768/hls/16/16.m3u8
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 

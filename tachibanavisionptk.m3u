@@ -3809,7 +3809,7 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099269
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099270
 
 #EXTINF:-1  tvg-name="USA Network" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Sports" radio="false",USA Network
-http://fl25.moveonjoy.com/USA_NETWORK/index.m3u8.
+http://fl25.moveonjoy.com/USA_NETWORK/index.m3u8
 ########################## SPORTS ASIA ########################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1

@@ -6705,7 +6705,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjM3NmYzZWJi
 #EXTINF:-1 radio="true" tvg-id="875Republ1kaFM1" tvg-name="87.5 Republ1ka FM1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Fm1ph-logo.png" group-title="FM",87.5 Republ1ka FM1
 http://122.53.138.32:8000/dzrm.mp3
 
-#EXTINF:-1 radio="true" group-title="FM", WLS FM 97.1
+#EXTINF:-1 radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/TheGiant_97.1_WLS_FM.svg/revision/latest?cb=20210102143653" group-title="FM", WLS FM 97.1
 https://magic.radioca.st/stream
 #EXTINF:-1 radio="true" group-title="FM", DWOW FM
 https://player.restream.io/?token=d98d1d2a6c0947fcb565d81d5bdc71ce

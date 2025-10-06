@@ -319,7 +319,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d9/Riau_TV.png/370px-Riau_TV.png" group-title="Local Channels", RIAU TV HD
-https://63b2dc7196c38.streamlock.net/RIAUTV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/RIAUTV/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="Local Channels", PALTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
@@ -341,9 +341,9 @@ https://live.efarinatv.net/hls/stream123/index.m3u8?checkedby:kenarnoly
 
 
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", FAJAR TV
-https://63b2dc7196c38.streamlock.net/FAJARTV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/FAJARTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_Sultra_TV.png" group-title="Local Channels", SULTRA TV
-https://63b2dc7196c38.streamlock.net/SULTRATV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/SULTRATV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/05/Logo_Jagantara_TV.png" group-title="NATIONAL TV", JAGANTARA HD
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch119.m3u8
@@ -2135,14 +2135,8 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 
 
 #EXTINF:-1  tvg-name="FUMIKA TV" tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels",PONTV HD
-https://bit.ly/mondokgila
+https://63b2dc7196c38.streamlock.net:1937/PONTV/myStream/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Local Channels", SAMBAS HD
-https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title= Local Channels, singkawang tv HD
-https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w1179708856.m3u8
 
 
 
@@ -5202,10 +5196,10 @@ https://v6.siar.us/madutv/hd720/playlist.m3u8?checkedby:iptvcat.com
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1564773869.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="JAWAPOS TV"  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/1024px-Jawa_Pos_TV_2024.svg.png?20240907113648" group-title="Local Channels",JAWAPOS TV
-https://63b2dc7196c38.streamlock.net/JAWAPOSTVJKT/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="Local Channels",Kawanua TV
-https://63b2dc7196c38.streamlock.net/KAWANUATV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/KAWANUATV/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 group-title="Local Channels" "" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png",Dhoho TV- Kediri
@@ -5223,10 +5217,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="Local Channels",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", ATAMBUA TV
-https://63b2dc7196c38.streamlock.net/ATAMBUATV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/ATAMBUATV/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://e7.pngegg.com/pngimages/132/406/png-clipart-logo-sumedang-regency-brand-design-blue-text.png" group-title="Local Channels",SMTV Sumedang
-https://63b2dc7196c38.streamlock.net/SMTV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937t/SMTV/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="Local Channels",RCTV Cirebon
@@ -5234,7 +5228,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8?checkedby:tachibanavision
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Padang_TV_2007.png" group-title="Local Channels",Padang TV
-https://63b2dc7196c38.streamlock.net/PADANGTV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/PADANGTV/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/sabanten.png" group-title="Local Channels",Sabanten - Banten
@@ -5242,7 +5236,7 @@ https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://batamtv.com/wp-content/uploads/2021/06/logo-btv.png" group-title="Local Channels",Batam TV
-https://63b2dc7196c38.streamlock.net/BATAMTV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/BATAMTV/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/natuna.png" group-title="Local Channels",Natuna TV
@@ -5250,7 +5244,7 @@ https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/simpang5.png" group-title="Local Channels",Simpang 5 TV Semarang
-https://63b2dc7196c38.streamlock.net/SIMPANG5TV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/SIMPANG5TV/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Local Channels",PJTV Bandung

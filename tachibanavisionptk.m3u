@@ -28,15 +28,15 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png?20180605101401" group-title="NATIONAL TV",KTV 
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch118.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=ktv
 
 #EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels", TATV HD
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="KIDS",VTV HD
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch117.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=vtv
 
 #EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels", BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
@@ -2667,8 +2667,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonnetwork.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="kartoonchannel",Kartoon CHANNEL
-# segera diperbaiki 
-
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=kartoon
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549

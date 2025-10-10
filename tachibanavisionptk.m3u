@@ -28,14 +28,15 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png?20180605101401" group-title="NATIONAL TV",KTV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-SEGERA PERBAIKAN 
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch118.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels", TATV HD
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="KIDS",VTV HD
-http://103.179.182.117:6768/hls/47/47.m3u8
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch117.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels", BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8

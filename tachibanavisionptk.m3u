@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="" group-title="INFOMARTION", TACHIBANA INFO
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://gooo.blog/opix/genx.m3u8?id=oxygentv
+https://proxy.gooo.blog/exp.m3u8
 
 #EXTINF:-1 tvg-id="radiotv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stara_TV_Sumedang_fix.png/100px-Stara_TV_Sumedang_fix.png" group-title="Local Channels", Stara TV
 https://bit.ly/starakalbar
@@ -2270,12 +2270,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tv5mondeasie.m3u8
 
 
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=xingkong
 
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Xing%20Kong%20Chinese%20SD-FirstMedia-Chl-206.jpg",Xing Kong TV (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/xingkong.m3u8
@@ -5794,8 +5790,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Channel_V_Logo.svg" group-title="DENS TV",CHANNEL V 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=vchina
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 16) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=vchina
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271

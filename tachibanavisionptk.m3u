@@ -2848,8 +2848,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/g2gBC2rC/20230519-230619.jpg" group-title="MOVIES",Cinemax (T*) 
 https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="" group-title="MOVIES", B4U MOVIES 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://why.biz.id/Iptv/oxygen.php?id=b4umovieindia
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=b4umovieindia
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -4489,8 +4489,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mp
 
 
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="" group-title="Music", B4U MUSIC 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://why.biz.id/Iptv/oxygen.php?id=b4umusicindia
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=b4umusicindia
 
 ####################################### RANDOM TV ################################
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/doraemon/images/6/6b/Doraemon_1979.jpg/revision/latest/scale-to-width-down/250?cb=20190730230643&path-prefix=id", 

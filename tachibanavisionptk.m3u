@@ -2,9 +2,9 @@
 "https://bit.ly/IndonesiaEpg"
 ########################## NATIONAL TV #########################
 
-#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="" group-title="INFOMARTION", TACHIBANA INFO
+#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="" group-title="INFOMARTION", CDI [INFO] 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://proxy.gooo.blog/exp.m3u8
+https://gooo.blog/opix/genx.m3u8?id=CDI
 
 #EXTINF:-1 tvg-id="radiotv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stara_TV_Sumedang_fix.png/100px-Stara_TV_Sumedang_fix.png" group-title="Local Channels", Stara TV
 https://bit.ly/starakalbar

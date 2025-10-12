@@ -29,7 +29,7 @@ https://flv.intechmedia.net/live/ch32.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png?20180605101401" group-title="NATIONAL TV",KTV 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KTV_28UHF.png/revision/latest?cb=20241027052556&path-prefix=id" group-title="NATIONAL TV",KTV 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://gooo.blog/opix/genx.m3u8?id=ktv
 

@@ -234,6 +234,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.
 
 #EXTINF:-1 group-title="ENTERTAINMENT",FX RUSSIAN 
 https://stream01.vnet.am/Fox/mono.m3u8
+
 #EXTINF:-1 group-title="Malaysia" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO-1.png",Suke TV
 https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 
@@ -5183,7 +5184,7 @@ https://ca01.utako.moe/v_paradise/index.m3u8
 
 
 #EXTINF:-1 group-title="Local Channels" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
-https://63b2dc7196c38.streamlock.net/JTVSURABAYA/myStream/chunklist_w936426026.m3u8
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/myStream/chunklist_w936426026.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-id="SALIRATV.id" tvg-logo="https://salira.tv/wp-content/uploads/2021/10/logo-wp-berita-2.png", SALIRA HD
 https://live.salira.tv:3870/stream/play.m3u8
 
@@ -5218,7 +5219,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 https://63b2dc7196c38.streamlock.net:1937/ATAMBUATV/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://e7.pngegg.com/pngimages/132/406/png-clipart-logo-sumedang-regency-brand-design-blue-text.png" group-title="Local Channels",SMTV Sumedang
-https://63b2dc7196c38.streamlock.net:1937t/SMTV/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/SMTV/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="Local Channels",RCTV Cirebon

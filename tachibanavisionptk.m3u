@@ -2498,107 +2498,119 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInv
 
 
 
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
-
-#EXTINF:-1 tvg-chno="3"  tvg-id="TPBS.th" tvg-name="TPBS" group-title="Digital TV" tvg-logo="https://i.imgur.com/OFsQwvv.png",TPBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
-
-#EXTINF:-1 tvg-chno="4"  tvg-id="ALTV4.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
-
-#EXTINF:-1 tvg-chno="5"  tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/4MIQNPQ.png",TV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
-
-#EXTINF:-1 tvg-chno="6"  tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Digital TV" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
-
-#EXTINF:-1 tvg-chno="7"  tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="Digital TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
-
-#EXTINF:-1 tvg-chno="8"  tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="Digital TV" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="9"  tvg-id="Jomyut" tvg-name="Jomyut" group-title="Digital TV" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg",Jomyut
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="10"  tvg-id="Parliament.th" tvg-name="Parliament" group-title="Digital TV" tvg-logo="https://i.imgur.com/Jfdy937.png",Parliament
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
 
 
+###################################MTV GROUP############################
 
-#EXTINF:-1 tvg-chno="14"  tvg-id="ANIMAL KINGDOM.th" tvg-name="ANIMAL KINGDOM" group-title="Digital TV" tvg-logo="https://i.imgur.com/jhQ1SAs.png",ANIMAL KINGDOM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="15"  tvg-id="ATTV.th" tvg-name="ATTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/HtBXgaZ.png",ATTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv90.jpg" group-title="MUSIC",MTV 90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-chno="16"  tvg-id="TNN.th" tvg-name="TNN" group-title="Digital TV" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/clubmtv.jpg" group-title="MUSIC",CLUB MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="17"  tvg-id="TVB Thai.th" tvg-name="TVB Thai" group-title="Digital TV" tvg-logo="https://i.imgur.com/hFZeMAu.png",TVB Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv00.jpg" group-title="MUSIC",MTV 00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
+'
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv80.jpg" group-title="MUSIC",MTV 80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="18"  tvg-id="JKN 18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
-
-#EXTINF:-1 tvg-chno="19"  tvg-id="7Flix.th" tvg-name="7Flix" group-title="Digital TV" tvg-logo="https://i.imgur.com/XTC7PUr.png",7Flix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
-
-#EXTINF:-1 tvg-chno="20"  tvg-id="Mangkorn.th" tvg-name="Mangkorn" group-title="Digital TV" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangkorn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="20"  tvg-id="News 1.th" tvg-name="News 1" group-title="Digital TV" tvg-logo="https://i.imgur.com/6lorisb.jpg",News 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-http://news1.live14.com/stream/news1.m3u8
-
-#EXTINF:-1 tvg-chno="22"  tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRL
-#EXTINF:-1 tvg-chno="27"  tvg-id="CH8.th" tvg-name="CH8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
-
-#EXTINF:-1 tvg-chno="28"  tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="Digital TV" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="29"  tvg-id="MONO.th" tvg-name="MONO" group-title="Digital TV" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
-
-#EXTINF:-1 tvg-chno="30"  tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="RAI Italy" tvg-name="RAI Italy" tvg-logo="https://mimipipi22.github.io/logo/international/raiitalia.jpg" group-title="DENS TV",RAI ITALY HD
+https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
 ########################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KNOWLEDGE" tvg-logo="", Dens LEARNING&KNOWLEDGE
-http://210.210.155.35/x6bnqe/s/s36/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Learning_n_Knowledge
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Dragon TV" tvg-name="Dragon TV" tvg-logo="https://mimipipi22.github.io/logo/international/dragontv.jpg" group-title="CHINA TV",DRAGON TV
+https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png",Besmart
-https://nxanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Hunan TV" tvg-name="Hunan TV" tvg-logo="https://mimipipi22.github.io/logo/international/hunantv.jpg" group-title="CHINA TV",HUNAN TV
+https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Jiangsu TV" tvg-name="Jiangsu TV" tvg-logo="https://mimipipi22.github.io/logo/international/jiangsutv.jpg" group-title="CHINA TV",JIANGSU TV
+https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Zhejiang TV" tvg-name="Zhejiang TV" tvg-logo="https://mimipipi22.github.io/logo/international/zhejiangtv.jpg" group-title="CHINA TV",ZHEJIANG TV
+https://atemeshield1-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Anhui TV" tvg-name="Anhui TV" tvg-logo="https://mimipipi22.github.io/logo/international/anhuitv.jpg" group-title="CHINA TV",ANHUI TV
+https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Shenzen TV" tvg-name="Shenzen TV" tvg-logo="https://mimipipi22.github.io/logo/international/shenzentv.jpg" group-title="CHINA TV",SHENZEN TV
+https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="TVBS News" tvg-name="TVBS News" tvg-logo="https://mimipipi22.github.io/logo/international/tvbsnews.jpg" group-title="CHINA TV",TVBS NEWS
+https://atemeshield1-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://mimipipi22.github.io/logo/international/tvbsasia.jpg" group-title="CHINA TV",TVBS ASIA
+https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="KNOWLEDGE", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -4483,8 +4495,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 #EXTINF:-1 group-title="RANDOM TV",sensengo2015
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 group-title="RANDOM TV",cctv-4
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
+#EXTINF:-1 group-title="RANDOM TV",CCTV 4 
+https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 #EXTINF:-1 group-title="RANDOM TV",haberturktv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 #EXTINF:-1 group-title="RANDOM TV",phoenixtvnews

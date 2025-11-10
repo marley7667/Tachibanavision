@@ -1509,10 +1509,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTINF:-1 tvg-logo="https://iili.io/24Vxp1f.png" group-title="Indihome", KOMPAS TV (HD)
 https://cdngb196jtedge.indihometv.com/joss/133/kompastv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indihome", Bali tv
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
-http://202.147.193.244/live/eds/BaliTV/sa_dash/BaliTV.mpd
+http://103.180.118.5:9981/stream/channelid/916002722
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Indihome", NICKJR
 https://cdn09jtedge.indihometv.com/joss/194/nickjr/index.m3u8

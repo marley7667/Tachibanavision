@@ -455,8 +455,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNLUBqUgpv-mfc_sZ7mNmdAevDlB53ByvoQ&usqp=CAU" group-title="TV Nasional Indonesia",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="Local Channels", bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="TV Nasional Indonesia",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
@@ -1508,8 +1507,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 
 #EXTINF:-1 tvg-logo="https://iili.io/24Vxp1f.png" group-title="Indihome", KOMPAS TV (HD)
 https://cdngb196jtedge.indihometv.com/joss/133/kompastv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indihome", Bali tv
-http://103.180.118.5:9981/stream/channelid/916002722
+
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Indihome", NICKJR
 https://cdn09jtedge.indihometv.com/joss/194/nickjr/index.m3u8
@@ -2319,7 +2317,24 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsnews.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL Tlogo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg",TVB Xing He (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbxinghe.m3u8
 
+##############################INDONESIA NETWORK ##########################
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Indonesia_Network.png",
 
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA NETWORK", Bali tv
+http://103.180.118.5:9981/stream/channelid/916002722
+
+#EXTINF:0 tvg-id="outdoor" group-title="INDONESIA NETWORK",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6a/Backup_of_Bandung_TV.png" group-title="INDONESIA NETWORK", bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="INDONESIA NETWORK", JOGJA TV HD
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="INDONESIA NETWORK", Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="INDONESIA NETWORK", Sriwijaya TV
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 
 ##############################################################
 
@@ -5411,8 +5426,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 https://v6.siar.us:443/madutv/hd720/chunks.m3u8
 
 
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SURABAYA TV
-https://e.siar.us/live/surabayatv.m3u8
+
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",LINGKARTV 
 https://lingkartv.my.id/hls/lingkartv.m3u8
@@ -6863,8 +6877,6 @@ https://mic.siar.us/mic/live/mic_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", NATGEO ABU DHABI
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1  group-title="Local Channels", JOGJA TV HD
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 
 

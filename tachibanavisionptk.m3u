@@ -5687,22 +5687,20 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/flik
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="DENS TV",TVOne
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 15) ExoPlayerLib/2.12.2
+http://gooo.blog/opix/genx.m3u8?id=tvone
+
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Kompas Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 14) ExoPlayerLib/2.12.2
+http://gooo.blog/opix/genx.m3u8?id=btv
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BERITASATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -5807,9 +5805,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT SPORTS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.179.182.117:6768/hls/16/16.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png" group-title="DENS TV",Fight Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/195.m3u8
+
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 

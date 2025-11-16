@@ -3233,12 +3233,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="MOVIES",Aniplus (A*)
 http://iptvtree.net:8080/adastream/J2DVrYWnpTu3Sk4W/298504
 
-#EXTINF:-1 tvg-id="AstroShowcase.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="MOVIES",Showcase HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
-https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-https://dl.dropboxusercontent.com/scl/fi/q17f8p1vmpjub18n35v20/showcase.m3u8?rlkey=5jh80h4jrxob7jf3z1l3jwww1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MOVIES",Showcase HD
+http://gotv.k.vu/api.php?id=Showcase 
+http://51.89.166.17:3002/index.php?id=Showcase
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
@@ -4598,9 +4596,7 @@ http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
 http://php.jdshipin.com/smt.php?id=Quanjia
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="MY 🇲🇾",TVB Jade
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 http://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-http://php.jdshipin.com/smt.php?id=Tvbjade
 
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",Berita RTM

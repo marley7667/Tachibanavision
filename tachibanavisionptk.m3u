@@ -561,7 +561,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="MNC",RCTI 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="MNC",RCTI LIVE SPORTS
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
+https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

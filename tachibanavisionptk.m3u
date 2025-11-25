@@ -43,33 +43,26 @@ https://gooo.blog/opix/genx.m3u8?id=vtv
 #EXTINF:-1 tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels", BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-//////////HBO GROUP///////
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="HBO",HBO 🇹🇭
-https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+//////////HBO INDIHOME///////
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofamily.jpg" group-title="HBO INDIHOME",HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="HBO",HBO HITS 🇹🇭
-https://cnt1-streamer17.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofamily.jpg" group-title="HBO INDIHOME",HBO 
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="HBO",HBO SIGNATURE 🇹🇭
-https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofamily.jpg" group-title="HBO INDIHOME",HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="HBO",HBO FAMILY 🇹🇭
-https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="HBO",CINEMAX 
-https://cnt1-streamer17.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
-
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofamily.jpg" group-title="HBO INDIHOME",HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="a2z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="RELIGI",A2Z

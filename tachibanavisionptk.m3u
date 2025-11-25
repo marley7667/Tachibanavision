@@ -339,7 +339,8 @@ https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 https://flv.intechmedia.net/live/ch51.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Efarina TV
 https://live.efarinatv.net/hls/stream123/index.m3u8?checkedby:kenarnoly
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gF8rZL8.png" group-title="Local Channels", SAMARINDA TELEVISI 
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8?checkedby:tachibanavision
 
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", FAJAR TV
 https://63b2dc7196c38.streamlock.net:1937/FAJARTV/myStream/playlist.m3u8

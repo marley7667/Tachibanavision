@@ -343,9 +343,10 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8?checkedb
 https://63b2dc7196c38.streamlock.net:1937/FAJARTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_Sultra_TV.png" group-title="Local Channels", SULTRA TV
 https://63b2dc7196c38.streamlock.net:1937/SULTRATV/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/05/Logo_Jagantara_TV.png" group-title="NATIONAL TV", JAGANTARA HD
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-http://103.172.71.153:9981/stream/channelid/1697990210?profile=pass
+http://103.172.71.153:9981/stream/channelid/1697990290?profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", MADU TV (BACKUP) 
 https://re1.siar.us/madutv/hd720/playlist.m3u8?checkedby:iptvcat.com

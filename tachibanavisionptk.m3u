@@ -6755,7 +6755,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="Entertainment",Allplay Ent
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+https://cdn10jetge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
 
@@ -7062,6 +7062,9 @@ https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3?checkedby:kenarn
 http://149.56.147.197:9071/stream
 #EXTINF:-1 group-title="FM" radio="true" tvg-id="1011MOR" tvg-name="101.1 DWRR", MOR 101.9
 https://stream.zeno.fm/0ha8ftewqp8uv?checkedby:eko
+
+#EXTINF:-1 radio="true" tvg-id="101.1 YFM" tvg-name="97.9 Home Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HOME-RADIO-LOGO-2017.png" group-title="FM",Y 101 FM
+http://209.126.124.126:8849/live?t=1764498156394?checkedby:bgkiki29
 
 #EXTINF:-1 group-title="FM" radio="true" tvg-id="zoofm" tvg-logo="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjhjOTE5NDMwMTM0ODE5MWI2YThmZmM1NzVlZWI5NWY6ZmlsZV8wMDAwMDAwMDg1ODA2MWZhYWM3NzBlNGUyMWQ4MTA1NiIsInRzIjoiNDg4MzM2IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiI4MzcxYWZiNzcyNjY4MGZiYTg3MjljMmM3YzQ5MTk3MjIxN2ZhNzA4OTk3YzZmOTlhMDllMTVjMDI2ZjM1YTljIiwidiI6IjAiLCJnaXptb19pZCI6bnVsbCwiY3AiOm51bGwsIm1hIjpudWxsfQ" tvg-name="ZOO FM", zoofm 101.6
 https://i.klikhost.com:8174/zoofm?checkedby:tachibanavision

@@ -1652,7 +1652,7 @@ https://why.biz.id/Iptv/oxygen.php?id=euronewsasia
 
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png",Fox News 
-https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
+https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
@@ -3002,11 +3002,11 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880823
 
 #EXTINF:-1  tvg-name="DISNEY CHANNEL" tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS" radio="false",DISNEY CHANNEL
-https://fl25.moveonjoy.com/DISNEY/index.m3u8
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1  tvg-name="DISNEY JR" tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="KIDS" radio="false",DISNEY JR
-https://fl25.moveonjoy.com/DISNEY_JR/index.m3u8
+https://fl31.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1  tvg-name="DISNEY XD" tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS" radio="false",DISNEY XD
-https://fl25.moveonjoy.com/DISNEY_XD/index.m3u8
+https://fl31.moveonjoy.com/DISNEY_XD/index.m3u8
 
 ########################## MOVIES ##########################
 

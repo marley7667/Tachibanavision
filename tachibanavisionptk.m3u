@@ -2237,7 +2237,7 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 #EXTINF:-1  tvg-name="RIZKI" tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels",PONTV HD
 https://63b2dc7196c38.streamlock.net:1937/PONTV/myStream/playlist.m3u8
 
-#EXTINF:-1  tvg-name="RIZKI" tvg-logo="https://iili.io/FkDlyib.png" group-title="ENTERTAINMENT", FOX 
+#EXTINF:-1  tvg-name="RIZKI" tvg-logo="https://iili.io/FkDlyib.png" group-title="ENTERTAINMENT", FOX HD
 https://fl1.moveonjoy.com/FOX/index.m3u8
 
 #EXTINF:-1  tvg-name="RIZKI" tvg-logo="https://iili.io/FkDlyib.png" group-title="ENTERTAINMENT", NBC
@@ -2529,6 +2529,8 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/092e2aca4ac357873f858ba49ab406dd.png" group-title="INTERNATIONAL TV",France 5
 http://69.64.57.208:8080/france5/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LIVE EVENT SOCCERS
+#
 
 ########################## KNOWLEDGE ##########################
 

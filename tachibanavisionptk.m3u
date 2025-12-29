@@ -1791,23 +1791,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonNetWHD/mediampd/CartoonNet
 ##########ABSCBN GRP###########
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="ABS CBN" , CINEMO!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="ABS CBN" , Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 channel-id="23" tvg-name="23" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="ABS CBN" , MYX
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
- 
-#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC.ph" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png" group-title="ABS CBN" , ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="ABS CBN" , TeleRadyo Serbisyo
-https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="TFCGUAM.ph" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest?cb=20180511214636" group-title="ABS CBN", TFC HD
-https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 ########################## ENTERTAINMENT ##########################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="ENTERTAINMENT",VIUTV TAIWAN
 http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
@@ -2233,6 +2217,15 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="ENTERTAINMENT",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDnu7TyA4VYEY3cO_wuT7afe9ZcCoFecUrE3BLedMjsL7iNygfW79R6c&s=10" group-title="ENTERTAINMENT", MYX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
+https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6PG0IoW0IqoJXi8eHXseb7Ac9ylTyCrPpNVnbHtBpA&s" group-title="ENTERTAINMENT", TFC Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
 #EXTINF:-1  tvg-name="RIZKI" tvg-logo="https://iili.io/FkDlyib.png" group-title="Local Channels",PONTV HD
 https://63b2dc7196c38.streamlock.net:1937/PONTV/myStream/playlist.m3u8

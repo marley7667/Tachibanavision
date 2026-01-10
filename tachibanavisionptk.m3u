@@ -2567,6 +2567,27 @@ http://69.64.57.208:8080/france5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/fkYzjJp.png" group-title="SPORTS", RIZKI TV BOLA
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch190.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fkYzjJp.png" group-title="SPORTS", RIZKI TV BADMINTON
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch191.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fkYzjJp.png" group-title="SPORTS", RIZKI TV TENNIS
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch192.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fkYzjJp.png" group-title="SPORTS", RIZKI TV VOLI
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch193.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fkYzjJp.png" group-title="SPORTS", RIZKI TV BASKET
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch194.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fkYzjJp.png" group-title="SPORTS", RIZKI TV GOLF 
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch195.m3u8
+
 ########################## KNOWLEDGE ##########################
 
 

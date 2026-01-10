@@ -2564,9 +2564,9 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/092e2aca4ac357873f858ba49ab406dd.png" group-title="INTERNATIONAL TV",France 5
 http://69.64.57.208:8080/france5/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", LIVE EVENT SOCCERS
-#
-
+#EXTINF:-1 tvg-logo="https://iili.io/fkYzjJp.png" group-title="SPORTS", RIZKI TV BOLA
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch190.m3u8
 ########################## KNOWLEDGE ##########################
 
 

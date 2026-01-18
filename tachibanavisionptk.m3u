@@ -2480,7 +2480,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsnews.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL Tlogo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg",TVB Xing He (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbxinghe.m3u8
-
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20Asia%20SD-FirstMedia-Chl-211.jpg",SET HD
+http://103.178.78.151:7505/play/a1sa/index.m3u8
 ##############################INDONESIA NETWORK ##########################
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Indonesia_Network.png",
 

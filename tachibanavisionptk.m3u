@@ -1,5 +1,7 @@
 ﻿#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 ########################## NATIONAL TV #########################
+#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CDI_Orange.png/revision/latest?cb=20241201065923&path-prefix=id" group-title="TEST", INFO TV
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CDI_Orange.png/revision/latest?cb=20241201065923&path-prefix=id" group-title="MUSIC",CDI HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 14) ExoPlayerLib/2.12.2

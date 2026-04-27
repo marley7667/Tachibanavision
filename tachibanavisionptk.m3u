@@ -124,12 +124,24 @@ https://fl61.moveonjoy.com/HBO/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
-
+##################PHTV ##########################
 #EXTINF:-1 group-title="DENS TV", WILD EARTH
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DENS TV", TRAVEL XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF-1 group-title="phtv", all tv 
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF-1 group-title="phtv", gtv
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF-1 group-title="phtv", gma channel
+https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
+#EXTINF-1 group-title="phtv", tv5 
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+#EXTINF-1 group-title="phtv", ibc13
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+#EXTINF-1 group-title="phtv", rptv
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

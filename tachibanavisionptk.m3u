@@ -3244,7 +3244,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids", Dreamworks 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="KIDS",DREAMWORKS (VS)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd|license_type=clearkey&license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58&User-Agent=referrer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

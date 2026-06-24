@@ -1,9 +1,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 
 
-#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Information", INFO TV
+#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Infomartion", INFO TV
 http://84.17.50.102/fox/index.m3u8
 
+#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Infomartion", INFO TV 2
+http://84.17.50.102/fs1/index.m3u8
+
+#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Infomartion", INFO TV 3
+http://84.17.50.102/fs2/index.m3u8
 
 
 

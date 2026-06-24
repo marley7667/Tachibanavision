@@ -1,3 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Information", INFO TV
+https://trs1.aynaott.com/ptvsports/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" group-title="SPORTS", TNT Sport 1 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -155,71 +175,7 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",ELEVEN SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
-https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="WORLD SPORTS",Sporza DUTCH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD SPORTS",THMANYAH 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-http://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD SPORTS",THMANYAH 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-http://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD SPORTS",THMANYAH 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="WORLD SPORTS",Bahrain Sports 1
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="WORLD SPORTS",Bahrain Sports 2
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="WORLD SPORTS",Goal Zone
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="WORLD SPORTS",Jordan Sport
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://93.184.10.248/JordanSport/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/D/yH/2972/Poster.png" group-title="WORLD SPORTS",Jordan Sport 2 [Geo-blocked]
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://jrtv-live.ercdn.net/learning2/learning2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="WORLD SPORTS",KTV Sport 1
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="WORLD SPORTS",KTV Sport 2
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="WORLD SPORTS",Oman Sports TV
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="WORLD SPORTS",Sharjah Sports [Geo-blocked]
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD SPORTS",SPORTS 1 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
@@ -228,8 +184,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
 ﻿#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 ########################## NATIONAL TV #########################
-#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CDI_Orange.png/revision/latest?cb=20241201065923&path-prefix=id" group-title="TEST", INFO TV
-https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CDI_Orange.png/revision/latest?cb=20241201065923&path-prefix=id" group-title="MUSIC",CDI HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 14) ExoPlayerLib/2.12.2

@@ -1044,7 +1044,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="MNC", GTV 
-https://cdnbal1.indihometv.com/atm/DASH/gtv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 
 

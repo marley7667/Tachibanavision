@@ -2,13 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Infomartion", INFO TV
-http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Infomartion", INFO TV 2
-http://84.17.50.102/fs1/index.m3u8
-
-#EXTINF:-1 tvg-id="oxygeninfo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Info_TV_ID.png/960px-Logo_Info_TV_ID.png" group-title="Infomartion", INFO TV 3
-http://84.17.50.102/fs2/index.m3u8
+http://103.137.83.62:9090/play/1/index.m3u8
 
 
 

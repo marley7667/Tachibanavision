@@ -313,29 +313,29 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DENS TV", TRAVEL XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", all tv 
+#EXTINF-1 tvg-id="alltv.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", all tv 
 https://streams.comclark.com/pknsd/alltv/playlist.m3u8
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", gtv
+#EXTINF-1 tvg-id="gtv.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", gtv
 https://streams.comclark.com/pknsd/gtv/playlist.m3u8
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245" , gma channel
+#EXTINF-1 tvg-id="gmanetwork.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245" , gma channel
 https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", tv5 
+#EXTINF-1 tvg-id="tv5.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", tv5 
 https://streams.comclark.com/pknsd/tv5/playlist.m3u8
-#EXTINF-1 group-title="phtv"tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", ibc13
+#EXTINF-1 tvg-id="ibc13.ph" group-title="phtv"tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", ibc13
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", rptv
+#EXTINF-1 tvg-id="rptv.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", rptv
 https://streams.comclark.com/pknsd/rptv/playlist.m3u8
 
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", ANC
+#EXTINF-1 tvg-id="anc.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", ANC
 https://streams.comclark.com/pknsd/anc/playlist.m3u8
 
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", Cinemo
+#EXTINF-1 tvg-id="cinemo.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", Cinemo
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", VIVA CINEMA
+#EXTINF-1 tvg-id="vivacinema.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", VIVA CINEMA
 https://streams.comclark.com/pknsd/viva/playlist.m3u8
 
-#EXTINF-1 group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", PBO
+#EXTINF-1 tvg-id="pbo.ph" group-title="phtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/PHTV_Logo_2020.png/revision/latest?cb=20220119013245", PBO
 https://streams.comclark.com/pknsd/pbo/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

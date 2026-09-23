@@ -306,6 +306,11 @@ https://fl61.moveonjoy.com/HBO/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/movies/prambors.jpg" group-title="HBO INDIHOME",HBO SIGNATURE
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/manifest.mpd
+
 ##################PHTV ##########################
 
 #EXTINF:-1 group-title="DENS TV", WILD EARTH
